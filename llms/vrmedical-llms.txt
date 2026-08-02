@@ -1,0 +1,20 @@
+# VR Medical
+
+> VR Medical (Kunshan Weirui Medical Technology Co., Ltd. / 昆山韦睿医疗科技有限公司) is a medical device company founded in 2009 that designs, develops, and manufactures devices for respiratory care, critical care, and wound care, operating an FDA-registered, ISO 13485 certified manufacturing plant in Kunshan, China, near Shanghai. The company raised a Series A in February 2016 led by Qiming Venture Partners. VR Medical does not publish a public developer portal, API documentation, or machine-readable API artifacts.
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + vrmedical.net + Tracxn/Crunchbase company profiles (no provider llms.txt found; vrmedical.net/llms.txt returned HTTP 429) -->
+
+## Company
+
+- [Website](https://vrmedical.net): Corporate site of Kunshan Weirui Medical Technology Co., Ltd.
+- [LinkedIn](https://www.linkedin.com/company/vr-medical-inc-): VR Medical Inc. company page
+
+## API Evangelist Profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/vrmedical/refs/heads/main/apis.yml): Machine-readable index of this company profile
+- [Domain Security](security/vrmedical-domain-security.yml): Probed TLS/DNSSEC/CAA/SPF/DMARC posture for vrmedical.net
+
+## Notes
+
+- No public API, developer portal, OpenAPI, SDKs, CLI, webhooks, or event surface was found as of 2026-07-21.
+- Site paths beyond the homepage (robots.txt, .well-known/*, llms.txt) are blocked with HTTP 429 by the site's WAF.

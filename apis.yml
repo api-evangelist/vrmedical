@@ -1,7 +1,23 @@
 aid: vrmedical
-name: vrmedical
-description: vrmedical is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vrmedical.png
+name: VR Medical
+description: VR Medical (Kunshan Weirui Medical Technology Co., Ltd.) is a medical
+  device company founded in 2009 that designs, develops, and manufactures devices
+  for respiratory care, critical care, and wound care, operating an FDA-registered,
+  ISO 13485 certified plant in Kunshan, China. Qiming Venture Partners led its
+  Series A in February 2016. The company publishes no public API or developer
+  program.
 url: https://raw.githubusercontent.com/api-evangelist/vrmedical/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +27,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Medical Devices
+- Healthcare
+- Respiratory Care
+- Wound Care
+- Critical Care
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +45,14 @@ maintainers:
 common:
 - type: Website
   url: https://vrmedical.net
+- type: LinkedIn
+  url: https://www.linkedin.com/company/vr-medical-inc-
+- type: DomainSecurity
+  url: security/vrmedical-domain-security.yml
+- type: LLMsTxt
+  url: llms/vrmedical-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
